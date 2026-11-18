@@ -40,7 +40,6 @@ if (isset($_POST['ambil_antrean'])) {
     }
     exit;
 }
-
 // --- PROSES BATALKAN ANTREAN ---
 if (isset($_GET['batal'])) {
     $id_antrean = (int)$_GET['batal'];
