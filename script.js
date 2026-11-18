@@ -1,6 +1,4 @@
-// ==========================================
 // File: script.js - Sistem E-BPJS Antrean
-// ==========================================
 
 document.addEventListener('DOMContentLoaded', () => {
 
