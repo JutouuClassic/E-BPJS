@@ -108,5 +108,3 @@ Login admin dapat diakses melalui tab **Mode Admin** di halaman login atau tombo
 2. Sistem menerbitkan nomor antrean dengan status **Menunggu**.
 3. Admin menekan **Panggil** sehingga status menjadi **Dipanggil** dan nomor tampil di monitor beranda.
 4. Setelah dilayani, admin menekan **Selesai**.
-
-
