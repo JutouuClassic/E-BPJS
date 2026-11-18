@@ -1,6 +1,5 @@
 <?php
 require_once 'koneksi.php';
-
 // Cek apakah sesi admin aktif
 if (!isset($_SESSION['admin'])) {
     header("Location: login.php?mode=admin");
