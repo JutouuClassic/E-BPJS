@@ -36,7 +36,6 @@ if (isset($_POST['edit_anggota'])) {
     header("Location: admin.php?tab=anggota&msg=edit_sukses");
     exit;
 }
-
 // --- HAPUS ANGGOTA ---
 if (isset($_GET['hapus'])) {
     $id = (int)$_GET['hapus'];
